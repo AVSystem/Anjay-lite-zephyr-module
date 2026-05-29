@@ -1,6 +1,3 @@
-[submodule "tools/deploy-utils"]
-	path = tools/deploy-utils
-	url = https://gitlab.avsystem.com/iot/embedded/deploy-utils
 [submodule "deps/anjay"]
 	path = deps/anjay-lite
 	url = https://github.com/AVSystem/Anjay-lite.git
